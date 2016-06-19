@@ -1,2 +1,0 @@
-﻿  test_intra_pred_speed.cc
-LINK : fatal error LNK1104: cannot open file 'gtestmdd.lib'
