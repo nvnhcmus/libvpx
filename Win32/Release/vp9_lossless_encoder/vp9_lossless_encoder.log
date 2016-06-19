@@ -1,0 +1,10 @@
+﻿  ivfenc.c
+  tools_common.c
+  video_writer.c
+  vp9_lossless_encoder.c
+  Generating code
+  0 of 24 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  vp9_lossless_encoder.vcxproj -> E:\edoopadCodec\libvpx\Win32\Release\vp9_lossless_encoder.exe
